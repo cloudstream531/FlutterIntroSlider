@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - intro_slider (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - intro_slider (from `.symlinks/plugins/intro_slider/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  intro_slider:
+    :path: ".symlinks/plugins/intro_slider/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  intro_slider: 85847639533bfd8e898d76844e0aa2cf412ee190
+
+PODFILE CHECKSUM: b6a0a141693093b304368d08511b46cf3d1d0ac5
+
+COCOAPODS: 1.8.0

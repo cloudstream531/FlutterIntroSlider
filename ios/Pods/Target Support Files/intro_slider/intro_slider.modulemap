@@ -1,0 +1,6 @@
+framework module intro_slider {
+  umbrella header "intro_slider-umbrella.h"
+
+  export *
+  module * { export * }
+}
